@@ -1,4 +1,4 @@
-# Bioinformatics Methods Terms - Complete Ordered Definitions
+# Bioinformatics Methods Terms
 
 ## **COMPUTING FUNDAMENTALS**
 
