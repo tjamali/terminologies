@@ -12,7 +12,9 @@ Complementary nucleotides that pair together in double-stranded DNA (A with T, G
 The hereditary material containing genetic instructions for all living organisms, composed of four nucleotides arranged in a double helix structure.
 
 ### **RNA (Ribonucleic acid)**
-A nucleic acid that plays crucial roles in gene expression, protein synthesis, and gene regulation. Unlike DNA, RNA is typically single-stranded and contains uracil instead of thymine.
+**RNA (Ribonucleic acid)** is a versatile nucleic acid that differs from DNA in several key ways: it contains ribose sugar (with a 2'-OH group) instead of deoxyribose, uses uracil instead of thymine, and is typically single-stranded, allowing it to fold into complex 3D structures. This structural flexibility enables RNA to perform diverse functions beyond simple information storage, including catalysis (ribozymes), regulation, and protein synthesis. The presence of the 2'-OH group makes RNA less stable than DNA but allows for the formation of intricate secondary structures that are essential for its various biological roles.
+
+The major types of RNA include **mRNA (messenger RNA)**, which carries genetic information from DNA to ribosomes for protein synthesis; **tRNA (transfer RNA)**, which brings amino acids to the ribosome during translation; **rRNA (ribosomal RNA)**, the structural and catalytic component of ribosomes; and various **regulatory RNAs** such as microRNAs (miRNAs) that control gene expression, long non-coding RNAs (lncRNAs) that regulate chromatin and transcription, and small nuclear RNAs (snRNAs) that process other RNAs. Additionally, newer discoveries include circular RNAs (circRNAs) and enhancer RNAs (eRNAs), highlighting the expanding complexity of the RNA world and its central role in gene regulation and cellular function.
 
 ### **Gene**
 A functional unit of heredity consisting of a DNA sequence that codes for a specific protein or RNA molecule. Genes contain the instructions for making the molecules that control cellular functions.
